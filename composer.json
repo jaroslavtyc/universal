@@ -1,0 +1,19 @@
+{
+    "name": "jaroslavtyc/universal",
+    "type": "library",
+    "description": "Complicated, still stupid framework",
+    "keywords": ["framework"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jaroslav Týc",
+            "email": "mail@jaroslavtyc.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": ["."]
+    }
+}
