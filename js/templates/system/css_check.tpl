@@ -1,0 +1,1 @@
+<h1 style="display: none">Omlouvám se, ale bez podpory <a href="/how_to_turn_on_css/" title="návod na zprovoznění CSS">CSS (kaskádových stylů)</a> nelze obsah správně zobrazit.</h1>
